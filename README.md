@@ -1,4 +1,6 @@
-# Notes: A Beginners Guide to React 2020
+<h1 align="center">A Beginners Guide to React 2020</h1>
+
+<p align="center"><img src="./images/logo.png" width="200"></p>
 
 These notes are intended to be used and studied in tandem with [Kent C. Dodds](https://egghead.io/instructors/kentcdodds)'s [A Beginners Guide to React (2020)]() course.
 
