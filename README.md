@@ -11,7 +11,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 </p>
 
-These notes are intended to be used and studied in tandem with [Kent C. Dodds](https://egghead.io/instructors/kentcdodds)'s [A Beginners Guide to React (2020)]() course.
+These notes are intended to be used and studied in tandem with [Kent C. Dodds](https://egghead.io/instructors/kentcdodds)'s [A Beginners Guide to React (2020)](https://egghead.io/courses/the-beginner-s-guide-to-react) course.
 
 Generally, there is one document for each lesson in the course. Each section contains a link to the video and the code corresponding to that.
 
