@@ -6,7 +6,7 @@
 <p align="center">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
     
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
     
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 </p>
@@ -64,6 +64,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://laurosilva.com"><img src="https://avatars2.githubusercontent.com/u/57044804?v=4" width="100px;" alt=""/><br /><sub><b>Lauro Silva</b></sub></a><br /><a href="#content-laurosilvacom" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/rosaxny"><img src="https://avatars3.githubusercontent.com/u/35818464?s=460&u=32415b72a80f1da93072ae707e01222338bfa779&v=4" width="100px;" alt=""/><br /><sub><b>rosaxny</b></sub></a><br /><a href="#content-rosaxny" title="Content">🖋</a></td>
+  </tr>
+      <td align="center"><a href="https://github.com/koji"><img src="https://avatars3.githubusercontent.com/u/474225?s=460&u=1b19c8e037cd73221c4d7130061270a4b2e949df&v=4" width="100px;" alt=""/><br /><sub><b>Koji</b></sub></a><br /><a href="#content-koji" title="Content">🖋</a></td>
   </tr>
 </table>
 
