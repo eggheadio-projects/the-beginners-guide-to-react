@@ -23,8 +23,8 @@
       const time = new Date().toLocaleTimeString();
       const element = `
         <div>
-          <input valu="${time}" />
-          <input valu="${time}" />
+          <input value="${time}" />
+          <input value="${time}" />
         </div>
       `
     rootElement.innerHTML = element
