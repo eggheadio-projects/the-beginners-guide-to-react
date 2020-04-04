@@ -26,8 +26,8 @@
           <input value="${time}" />
           <input value="${time}" />
         </div>
-      `
-      rootElement.innerHTML = element
+      `;
+      rootElement.innerHTML = element;
     }
 
     tick();
