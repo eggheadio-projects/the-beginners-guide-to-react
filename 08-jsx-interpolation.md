@@ -59,8 +59,8 @@
       return (
         <div>
           {/* this is all JavaScript land  */}
-          {/* but it's limited to only expressions that evaluates to some value */}
-          {/* no loops, switch, or if statments  */}
+          {/* but it's limited to only expressions that evaluate to some value */}
+          {/* no loops, switch, or if statements  */}
           {`The text "${text}" has `}
           {text.length ? <strong>{text.length}</strong> : 'No'}
           {' characters'}

@@ -22,7 +22,7 @@
 </script>
 ```
 
-Since this is JXS and not HTML, you can use self-closing tags:
+Since this is JSX and not HTML, you can use self-closing tags:
 
 ```html
 <script type="text/babel">

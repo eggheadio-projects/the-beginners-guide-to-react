@@ -27,7 +27,11 @@
           <input value="${time}" />
         </div>
       `
-    rootElement.innerHTML = element
+      rootElement.innerHTML = element
+    }
+
+    tick();
+    setInterval(tick, 1000);
   </script>
 </body>
 ```
@@ -54,6 +58,7 @@
       ReactDOM.render(element, rootElement);
     }
 
+    tick();
     setInterval(tick, 1000);
   </script>
 </body>
