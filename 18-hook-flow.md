@@ -23,13 +23,13 @@
 
     function Child() {
       console.log('%c    Child: render start', 'color: MediumSpringGreen');
-      // A useState Hook that console logging several useEffect Hooks
+      // A useState Hook and console logging several useEffect Hooks
       const [count, setCount] = React.useState(() => {
         console.log('%c    Child: useState callback', 'color: tomato');
         return 0;
       });
 
-      // The useEffect are called in order starting from the child useEffect
+      // The useEffect hooks are called in order starting from the child useEffect
       React.useEffect(() => {
         console.log('%c    Child: useEffect no deps', 'color: LightCoral');
         return () => {
@@ -63,15 +63,15 @@
         };
       }, [count]);
 
-      // Rending our React element
+      // Creating our React element
       const element = (
-        // Proving a nd update function, trigerring a re-render
+        // Providing an update function, triggering a re-render
         <button onClick={() => setCount(previousCount => previousCount + 1)}>
           {count}
         </button>
       );
 
-      // Console log that out React element is finished
+      // Console log that our React element is finished
       console.log('%c    Child: render end', 'color: MediumSpringGreen');
 
       return element;
@@ -92,7 +92,7 @@
           console.log('%cApp: useEffect no deps cleanup', 'color: LightCoral');
         };
       });
-      // Since this has no dependewncies, it will not be called on updates
+      // Since this has no dependencies, it will not be called on updates
       React.useEffect(() => {
         console.log('%cApp: useEffect empty deps', 'color: MediumTurquoise');
         return () => {
@@ -130,10 +130,10 @@
               border: 'solid'
             }}
           >
-            {/* Creating a component but only when it's being called not on inicial render */}
+            {/* Creating a component but only after initial render when showChild checkbox is checked */}
             {/* If it's not being called, it's only creating React objects  */}
             {showChild ? <Child /> : null}
-            {/* when on null, it removes the child and calls for a clean-up's  */}
+            {/* when showChild is toggled off, it removes the Child component and calls for a cleanup  */}
           </div>
         </>
       );

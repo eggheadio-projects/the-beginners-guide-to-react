@@ -46,8 +46,8 @@ function useLocalStorageState(key, defaultValue = '') {
   <script src="https://unpkg.com/react-dom@16.12.0/umd/react-dom.development.js"></script>
   <script src="https://unpkg.com/@babel/standalone@7.8.3/babel.js"></script>
   <script type="text/babel">
-    // the community stander is to use `useWhateverName` following React Hooks name standers
-    // proving key for localstorage and defaultValue
+    // the community standard is to use `useWhateverName` following React Hooks name standards
+    // providing key for localStorage and defaultValue
     function useLocalStorageState(key, defaultValue = '') {
       const [state, setState] = React.useState(
         () => window.localStorage.getItem(key) || defaultValue

@@ -25,7 +25,7 @@
         if (!pokemonName) {
           return;
         }
-        // Calking fetchPokemos and setting state for the data
+        // Calling fetchPokemon and setting state for the data
         fetchPokemon(pokemonName).then(pokemonData => {
           setPokemon(pokemonData);
         });

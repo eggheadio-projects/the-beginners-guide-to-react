@@ -73,10 +73,10 @@
           glare: true,
           'max-glare': 0.5
         };
-        // Iniciating VanillaTil and passing tiltNode and vanillaTiltOptions
+        // Initiating VanillaTilt and passing tiltNode and vanillaTiltOptions
         VanillaTilt.init(tiltNode, vanillaTiltOptions);
         return () => {
-          // assuring that any node refs in memory get garbage collected
+          // ensuring that any node refs in memory get garbage collected
           // prevent memory leaks
           tiltNode.vanillaTilt.destroy();
         };

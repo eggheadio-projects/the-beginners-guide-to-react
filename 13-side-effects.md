@@ -27,7 +27,7 @@
       );
 
       // The Effect Hook lets you perform side effects in function components
-      // Load every time the Greeting() is render
+      // Load every time the Greeting() is rendered
       React.useEffect(() => {
         // The read-only localStorage property allows you to access a Storage object for the
         // document's origin; the stored data is saved across browser sessions.
