@@ -13,8 +13,8 @@
 - Get `react` and `react-dom` from unpkg.com, using a fixed version:
 
 ```
-unpkg.com/react@16.7.0/umd/react.production.min.js
-unpkg.com/react-dom@16.7.0/umd/react-dom.production.min.js
+unpkg.com/react@16.12.0/umd/react.production.min.js
+unpkg.com/react-dom@16.12.0/umd/react-dom.production.min.js
 ```
 
 - And add a `script` tag to the page:
