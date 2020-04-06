@@ -83,7 +83,7 @@
 </body>
 ```
 
-- PropTypes are not render on production. You can also removed PropTypes using the [babel-plugin-transform-react-remove-prop-types](https://www.npmjs.com/package/babel-plugin-transform-react-remove-prop-types).
+- PropTypes are not rendered on production. You can also remove PropTypes using the [babel-plugin-transform-react-remove-prop-types](https://www.npmjs.com/package/babel-plugin-transform-react-remove-prop-types).
 
 ## Additional resource
 
