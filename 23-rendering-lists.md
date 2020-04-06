@@ -7,7 +7,7 @@
 ## Notes
 
 - It doesn’t take long working with React before you want to render a list of items and when you do, you’ll inevitably encounter this console warning: “**Warning**: Each child in a list should have a unique key prop.”
-- This warning is pretty simple to silence by providing the bespoken `key` prop, but it is really useful to understand what that warning is about and the bugs that can happen if you do not address the warning properly.
+- This warning is pretty simple to silence by providing the bespoke `key` prop, but it is really useful to understand what that warning is about and the bugs that can happen if you do not address the warning properly.
 - `Keys` help React identify which items have changed, are added, or are removed. `Keys` should be given to the elements inside the array to give the elements a stable identity:
 
 ```html

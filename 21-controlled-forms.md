@@ -26,8 +26,8 @@
       }
 
       function handleChange(event) {
-        // makeing sure that the value is turned into lower case
-        // the input value is now handle with React
+        // making sure that the value is turned into lower case
+        // the input value is now handled with React
         setUsername(event.target.value.toLowerCase());
       }
 

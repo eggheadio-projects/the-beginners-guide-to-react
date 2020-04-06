@@ -20,10 +20,10 @@
       // A common mistake people make is to create a state variable called `isLoading` and set that to true or false.
       // Instead, we’ll be using a status variable which can be set to idle, pending, resolved, or rejected.
 
-      // Adding state to Pokemos status
+      // Adding state to Pokemon status
       const [status, setStatus] = React.useState('idle');
       const [pokemon, setPokemon] = React.useState(null);
-      // Adding state to hanfle errors
+      // Adding state to handle errors
       const [error, setError] = React.useState(null);
 
       React.useEffect(() => {
@@ -44,7 +44,7 @@
         );
       }, [pokemonName]);
       // this is very predictable, now that we can handle the status
-      // In order to enforce an error yourself, you can alter the  pokemonQuery into something invalid.
+      // In order to force an error yourself, you can alter the pokemonQuery into something invalid.
       if (status === 'idle') {
         return 'Submit a pokemon';
       }

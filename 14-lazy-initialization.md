@@ -23,13 +23,12 @@
     function Greeting() {
       const [name, setName] = React.useState(
         // Arrow function
-        //  React allows us to specify a function instead of an actual value, and then it will only call that function when it needs to–on the initial render.
+        //  React allows us to specify a function instead of an actual value, and then it will only call that function when it needs to – on the initial render.
         () => window.localStorage.getItem('name') || ''
       );
 
       // We don't want to render on every change
-      // Since we using localStorage, it's not a big deal
-      // console.log('render')
+      // Since we're using localStorage, it's not a big deal
 
       React.useEffect(() => {
         window.localStorage.setItem('name', name);

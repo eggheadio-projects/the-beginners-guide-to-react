@@ -27,7 +27,7 @@
 
 ![](./images/profiler.png)
 
-- It's strongly advise that you install the React DevTools and play around with them so you become familiar with their capabilities and make you more productive developing React applications.
+- It's strongly advised that you install the React DevTools and play around with them so you become familiar with their capabilities and more productive developing React applications.
 
 ## Additional resource
 

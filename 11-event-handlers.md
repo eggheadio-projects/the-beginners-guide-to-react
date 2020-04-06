@@ -21,7 +21,7 @@
   <script type="text/babel">
     const rootElement = document.getElementById('root');
 
-    // Our current state of our app
+    // The current state of our app
     const state = { eventCount: 0, username: '' };
 
     function App() {
@@ -53,7 +53,7 @@
       );
     }
 
-    // This generally not how you handle state.
+    // This is generally not how you handle state
     function setState(newState) {
       Object.assign(state, newState);
       renderApp();

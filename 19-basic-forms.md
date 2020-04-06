@@ -23,11 +23,11 @@
         // preventing from automatically sending a post request/full page refresh
         event.preventDefault();
         // Please don't use this:
-        // document.querySelector('input').value brakes the encapsulation
+        // document.querySelector('input').value, this breaks the encapsulation
 
         // we can access the form element directly, console.dir(event.target)
         // one option: const username = event.target[0].value
-        // If ref is not need, then use the id
+        // If ref is not needed, then use the id
         const username = event.target.elements.usernameInput.value;
         // Alerting this to users or sending this to backend server
         alert(`You entered: ${username}`);
@@ -37,11 +37,11 @@
          {/* Creating a form  */}
         <form onSubmit={handleSubmit}>
           <div>
-            {/* adding a lable  htmlFor="usernameInput" */}
+            {/* adding a label - htmlFor="usernameInput" */}
             <label htmlFor="usernameInput">Username:</label>
             <input id="usernameInput" type="text" />
           </div>
-          {/* Forms are automatic summit on type="submit*/}
+          {/* Forms are automatically submitted on type="submit*/}
           {/* Make sure to specify the type on the button */}
           <button type="submit">Submit</button>
         </form>

@@ -20,9 +20,9 @@
   <script src="https://unpkg.com/@babel/standalone@7.8.3/babel.js"></script>
   <script src="https://unpkg.com/react-error-boundary@1.2.5/dist/umd/react-error-boundary.js"></script>
   <script type="text/babel">
-    // This is recommneded:
+    // This is recommended:
     const ErrorBoundary = ReactErrorBoundary.ErrorBoundary;
-    // error bounderies need to be a class component
+    // error boundaries need to be a class component
     // returning this.props.children
 
     // class ErrorBoundary extends React.Component {
@@ -51,7 +51,7 @@
     }
 
     function Bomb() {
-      // when this function is called, it trows an error
+      // when this function is called, it throws an error
       throw new Error('💥 CABOOM 💥');
       // Note that error boundaries only catch errors in the components below them in the tree.
     }
