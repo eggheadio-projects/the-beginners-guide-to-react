@@ -9,23 +9,23 @@
 
 - Installing from Chrome Tools:
 
-![](./images/devtools.png)
+![]http://res.cloudinary.com/dg3gyk0gu/image/upload/v1591296084/transcript-images/react-install-and-use-react-devtools-devtools.jpg)
 
 - Checking for a production build:
 
-![](./images/twitter.png)
+![]http://res.cloudinary.com/dg3gyk0gu/image/upload/v1591296082/transcript-images/react-install-and-use-react-devtools-twitter.jpg)
 
 - Inspecting with dev tools:
 
-![](./images/devtools2.png)
+![]http://res.cloudinary.com/dg3gyk0gu/image/upload/v1591296084/transcript-images/react-install-and-use-react-devtools-devtools2.jpg)
 
 - Theme and filtering:
 
-![](./images/filter.png)
+![]http://res.cloudinary.com/dg3gyk0gu/image/upload/v1591296083/transcript-images/react-install-and-use-react-devtools-filter.jpg)
 
 - Using the profiling:
 
-![](./images/profiler.png)
+![]http://res.cloudinary.com/dg3gyk0gu/image/upload/v1591296084/transcript-images/react-install-and-use-react-devtools-profiler.jpg)
 
 - It's strongly advised that you install the React DevTools and play around with them so you become familiar with their capabilities and more productive developing React applications.
 

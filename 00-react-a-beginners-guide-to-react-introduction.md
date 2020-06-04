@@ -25,7 +25,7 @@
 - developer tools opened
 ```
 
-![img](/images/setup.png)
+![img](/images/react-a-beginners-guide-to-react-introduction-setup.png)
 
 ## Additional resource
 
