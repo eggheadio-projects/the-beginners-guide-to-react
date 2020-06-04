@@ -10,7 +10,7 @@
 
 - We’ll explore the lifecycle of a function component with hooks with colorful console log statements so we know when one phase starts and when it ends.
 
-![]http://res.cloudinary.com/dg3gyk0gu/image/upload/v1591296082/transcript-images/react-understand-the-react-hook-flow-hook-flow.jpg)
+![](https://res.cloudinary.com/dg3gyk0gu/image/upload/v1591296082/transcript-images/react-understand-the-react-hook-flow-hook-flow.jpg)
 
 ```html
 <body>

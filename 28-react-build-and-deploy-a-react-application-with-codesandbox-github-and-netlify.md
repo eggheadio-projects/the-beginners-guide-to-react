@@ -6,18 +6,18 @@
 
 - Once you've figured out how React works locally in an index.html, you probably want to build an actual application and the best next place to start is by going to [codesandbox.io](codesandbox.io).
 
-![]http://res.cloudinary.com/dg3gyk0gu/image/upload/v1591296084/transcript-images/react-build-and-deploy-a-react-application-with-codesandbox-github-and-netlify-codesandbox.jpg)
+![](https://res.cloudinary.com/dg3gyk0gu/image/upload/v1591296084/transcript-images/react-build-and-deploy-a-react-application-with-codesandbox-github-and-netlify-codesandbox.jpg)
 
 - There are a ton of things that you can do in CodeSandbox. You can add dependencies from npm, you can add external resources, you can even change your typeface.
 - I can create a new repository. Example, CodeSandbox. We'll click Create Repository and CodeSandbox will create a repository on GitHub based on what I have right here.
 
-![]http://res.cloudinary.com/dg3gyk0gu/image/upload/v1591296084/transcript-images/react-build-and-deploy-a-react-application-with-codesandbox-github-and-netlify-deploy.jpg)
+![](https://res.cloudinary.com/dg3gyk0gu/image/upload/v1591296084/transcript-images/react-build-and-deploy-a-react-application-with-codesandbox-github-and-netlify-deploy.jpg)
 
 - You can also deploy with Netlify.
 
 - Within Netlify, you can even make a custom domain and so you could create an entire application using just CodeSandbox, Netlify, and GitHub.
 
-![]http://res.cloudinary.com/dg3gyk0gu/image/upload/v1591296084/transcript-images/react-build-and-deploy-a-react-application-with-codesandbox-github-and-netlify-website.jpg)
+![](https://res.cloudinary.com/dg3gyk0gu/image/upload/v1591296084/transcript-images/react-build-and-deploy-a-react-application-with-codesandbox-github-and-netlify-website.jpg)
 
 ## Additional resource
 

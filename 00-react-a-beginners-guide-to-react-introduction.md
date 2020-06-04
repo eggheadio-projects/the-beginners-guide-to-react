@@ -25,7 +25,7 @@
 - developer tools opened
 ```
 
-![img](/images/react-a-beginners-guide-to-react-introduction-setup.png)
+![img](https://res.cloudinary.com/dg3gyk0gu/image/upload/v1591296082/transcript-images/react-a-beginners-guide-to-react-introduction-setupsetup.jpg)
 
 ## Additional resource
 

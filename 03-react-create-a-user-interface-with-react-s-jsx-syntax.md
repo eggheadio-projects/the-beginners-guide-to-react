@@ -11,7 +11,7 @@
 - The best way to take advantage of this is to learn how JSX is compiled to regular JavaScript. By default the browser does not compile JSX, it needs [Babel](https://babeljs.io) to compile non-standard features, like JSX.
   - **Tip**: Spend some time exploring how Babel compiles JSX, this will help you be more effective when using JSX. [See Example:](https://babeljs.io/repl#?browsers=&build=&builtIns=false&spec=false&loose=false&code_lz=ATDGHsDsGcBdgKYBsEFsGXgXmAHgCYCWAbmEgIbTQBy56WARBJuYZAgE4MB8AEsknDAA6uA5J8uAPRFi3IA&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=false&presets=es2015%2Creact%2Cstage-2&prettier=true&targets=&version=7.8.7&externalPlugins=)
 
-![]http://res.cloudinary.com/dg3gyk0gu/image/upload/v1591296083/transcript-images/react-create-a-user-interface-with-react-s-jsx-syntax-babel.jpg)
+![](https://res.cloudinary.com/dg3gyk0gu/image/upload/v1591296083/transcript-images/react-create-a-user-interface-with-react-s-jsx-syntax-babel.jpg)
 
 - Use Babel in the browser, by adding a `script` tag to `babel/standalone` and adding a new tag with `type='text/babel'`;
 
