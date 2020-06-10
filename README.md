@@ -1,4 +1,4 @@
-<h1 align="center">A Beginners Guide to React 2020</h1>
+<h1 align="center"><a href="https://egghead.io/courses/the-beginner-s-guide-to-react">A Beginners Guide to React 2020</a></h1>
 
 
 <p align="center"><img src="./images/logo.png" width="200"></p>
