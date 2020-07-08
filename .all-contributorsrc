@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "tomByrer",
+      "name": "Tom Byrer",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1308419?v=4",
+      "profile": "https://github.com/tomByrer",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "the-beginners-guide-to-react",
+  "projectOwner": "eggheadio-projects",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
