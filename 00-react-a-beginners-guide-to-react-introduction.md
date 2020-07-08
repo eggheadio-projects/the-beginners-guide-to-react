@@ -9,6 +9,10 @@
 - No requirements needed when taking this course.
 - Recommend that you watch all of these videos through once without touching the keyboard. Just take notes. Then watch them a second time and follow along and change/break the code and review the bits that you need.
 - Download or clone the source code: [**Course Repo**](https://github.com/kentcdodds/beginners-guide-to-react/tree/egghead) and ⚠️ switch to the egghead branch.
+  - [download zip](https://egghead.io/lessons/react-a-beginners-guide-to-react-introduction#t=160) when in the branch
+  - via CLI: `git clone -b egghead https://github.com/kentcdodds/beginners-guide-to-react.git`
+- [VSCode](https://code.visualstudio.com/download) is the recommend editor.
+  - When VSCode is active, you can open its interal terminal CLI by Menu:View/Terminal.
 
 * Copy and paste the `start` script in a terminal window to locally serve all the files. Access the files in `localhost:3000`.
 
