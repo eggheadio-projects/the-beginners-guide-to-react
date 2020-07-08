@@ -1,4 +1,7 @@
 <h1 align="center"><a href="https://egghead.io/courses/the-beginner-s-guide-to-react">A Beginners Guide to React 2020</a></h1>
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
 <p align="center"><img src="./images/logo.png" width="200"></p>
@@ -56,6 +59,18 @@ This course is for React newbies and anyone looking to build a solid foundation.
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/tomByrer"><img src="https://avatars2.githubusercontent.com/u/1308419?v=4" width="100px;" alt=""/><br /><sub><b>Tom Byrer</b></sub></a><br /><a href="#content-tomByrer" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
