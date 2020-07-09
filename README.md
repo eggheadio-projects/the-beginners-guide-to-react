@@ -1,3 +1,5 @@
+<h1 align="center"><a href="https://github.com/eggheadio/notes">DEPRECATED :lipstick: This notes repo has been moved to eggheadio/notes!</a></h1>
+
 <h1 align="center"><a href="https://egghead.io/courses/the-beginner-s-guide-to-react">A Beginners Guide to React 2020</a></h1>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
